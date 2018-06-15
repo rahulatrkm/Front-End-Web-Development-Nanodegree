@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+  * What new skills have you learned?
+
+  * What has been easy?
+  
+  * What has been difficult?
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+* I have learnt many new skills from this course such as <button>, <span>, <li>, <ul>, <ol>, <div>, <figure> tags and many more. However the best part of all is that I am learning sequentially.
+* It's been using some of the tags like <img>, <p>, <a>, etc however these have to be used wisely.
+* Till now I haven't felt any part hard, however I can say finding mistake in my own translated article is a little bit tough job.
+* First of all I try myself without taking help from any reference. If I got stuck somewhere then I take help from my notes made by me during the course. If that doesn't works then I go for the MDN web docs.
