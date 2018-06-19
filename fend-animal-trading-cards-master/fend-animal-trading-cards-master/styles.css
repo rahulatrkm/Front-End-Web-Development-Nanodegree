@@ -3,7 +3,7 @@
     width: 300px;
     padding: 10px;
     padding-top: 5px;
-    border: 1px #ccc;
+    border: 1px solid#ccc;
     box-shadow: 10px 10px 10px 5px #ccc;
 }
 img{
@@ -11,7 +11,7 @@ img{
     padding-bottom: 10px;
 }
 #card{
-    border: 1px solid#ccc;
+    border: 1px solid;
     padding: 10px;
 }
 #interesting-fact{
