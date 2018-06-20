@@ -1,0 +1,52 @@
+.name {
+    text-align: right;
+}
+
+.heading {
+    padding-top: 1em;
+    padding-right: 1em;
+}
+
+#udacity {
+    padding-top: 1em;
+}
+
+hr {
+    background-color: #7d97ad;
+    border: 0 none;
+    color: #7d97ad;
+    height: 0.5em;
+}
+
+img {
+    width: 100%;
+}
+
+.quote {
+    padding-bottom: 1em;
+}
+
+.project {
+    height: 12em;
+}
+
+.card-width {
+    width: 15rem;
+}
+
+.logo {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+a {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.copyright {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
